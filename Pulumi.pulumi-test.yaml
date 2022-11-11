@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  pulumi-test:errorDocument: error.html
+  pulumi-test:indexDocument: index.html
+  pulumi-test:path: ./www
